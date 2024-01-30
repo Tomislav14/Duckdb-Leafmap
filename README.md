@@ -1,1 +1,1 @@
-# Duckdb-
+# Duckdb
